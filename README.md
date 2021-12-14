@@ -1,5 +1,5 @@
 ### Trogiken
-Give me money and I'll give you a half finished project with more errors in it than your tax records
+Give me money and I'll give you a half finished project with more errors than your tax records
 
 <!--
 **Trogiken/Trogiken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
