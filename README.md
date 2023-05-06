@@ -1,5 +1,5 @@
 ### Trogiken
-Idk what I'm doing anymore
+Making stuff
 
 <!--
 **Trogiken/Trogiken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
